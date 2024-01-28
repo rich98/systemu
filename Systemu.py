@@ -53,7 +53,7 @@ while True:
         process_table.add_row([proc.info['pid'], proc.info['name']])
     print(process_table)
 
-    time.sleep(5)  # Pause for 1 second
+    time.sleep(5)  # Pause for 5 seconds
 
 
 
